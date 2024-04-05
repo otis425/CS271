@@ -1,14 +1,18 @@
 # CS271
+Programming Topics I am interested in!
+1. Code Refactoring
+2. Running Simulations (Physics or otherwide)
+3. UI/UX Design
+4. Audio Programming
+5. 3D Graphics Programming
+   
+Here's a neat blog post on creating a digital synthesizer
+https://medium.com/@antoine.champion/how-to-generate-music-using-code-c0413909f02
 
-1. 
-2.
-3.
-4.
-5.
+Programming Topics I find challenging!
+1. Object-Oriented Programming (OOP)
+2. Garbage Collection
+3. Parallel Computing
+4. Memory Management
+5. Inheritance
 
-
-five topics related to computing (maybe an interesting looking data structure?!) that interest you, maybe even include a link to a page talking about the topic both in this README file and on the discord channel for this class,
-
-five topics that you feel are difficult right now or topics that you think are generally difficult topics related to computer or computing,
-
-submit the README into the assignment 0 submission spot on Moodle (this assignment page!)(we will take a look at these  README files again close to the end of the term!).
